@@ -21,9 +21,9 @@
 	<string name="TVOut">TVOut</string>
 	<string name="boot">Definir ao Iniciar</string>
 	<string name="apply">Aplicar Configurações</string>
-	<string name="about_graphics">Graphics thanks to: </string>
-	<string name="about_translations">Translations thanks to:</string>
-	<string name="about_about">About:</string>
+	<string name="about_graphics">Grafismo agradecido a: </string>
+	<string name="about_translations">Traduções agradecidas a:</string>
+	<string name="about_about">Acerca:</string>
 	<string name="about_translations_thanks">\n
 	    French - Minidou-77\n
 	    Português - Ghelfalath\n
